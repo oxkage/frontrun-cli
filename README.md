@@ -27,7 +27,7 @@ Scrape smart followers, linked wallets, contract address history, and [Ethos Net
 ## 🚀 Quick Start
 
 ```bash
-git clone <repo-url> && cd frontrun-cli
+git clone https://github.com/oxkage/frontrun-cli && cd frontrun-cli
 npm install
 cp .env.example .env
 ```
